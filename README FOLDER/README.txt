@@ -1,0 +1,1 @@
+basic Flask application of a company blog website

@@ -1,0 +1,1 @@
+# relates to the company related aspect of the site e.g about us, contact us
